@@ -28,11 +28,10 @@ email = "stic2013@gmail.com"
 google_analytics_id = ""
 home = "Home"
 logo = "images/logo.png"
-phone = "+33 000 000 000"
 theme_color = "#41228e"
 [params.contact]
 enable = true
-form_action = "#"
+form_action = "mailto:stic2013@gmail.com"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
@@ -51,14 +50,8 @@ URL = "plugins/shuffle/shuffle.min.js"
 enable = true
 preloader = ""
 [[params.social]]
-URL = "#"
-icon = "ti-facebook"
+URL = "https://www.linkedin.com/in/desire-muhire-5789224a/"
+icon = "ti-linkedin"
 [[params.social]]
-URL = "#"
-icon = "ti-instagram"
-[[params.social]]
-URL = "#"
-icon = "ti-dribbble"
-[[params.social]]
-URL = "#"
+URL = "https://twitter.com/muhidesire"
 icon = "ti-twitter-alt"
