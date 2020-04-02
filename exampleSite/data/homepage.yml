@@ -1,11 +1,11 @@
 # banner
 banner:
-  title : "Hi! I’m <br> Christoher <br> UX designer"
+  title : "Hello! I’m <br> MUHIRE DESIRE <br> PhD in Computer Vision"
 
 # about
 about:
   enable : true
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  content : "Expertise in Computer Vision, Machine Vision and Electro/Photonic device design"
   button:
     enable : true
     label : "know more"
@@ -16,66 +16,61 @@ skill:
   enable : true
   title : "Skills"
   item:
-    - title : "Web Design"
+    - title : "Research and development"
       progress : "90%"
       color : "#fdb157"
-      
-    - title : "Logo Design"
-      progress : "60%"
-      color : "#9473e6"
-      
-    - title : "After Effects"
+
+    - title : "Vision with Machine and Deep Learning"
       progress : "80%"
-      color : "#bdecf6"
+      color : "#fde150"
       
-    - title : "Web App"
+    - title : "Programming Python C Qt and OPENCV"
+      progress : "75%"
+      color : "#9473e6"
+
+    - title : "Electronic Design Automation LABVIEW"
       progress : "70%"
       color : "#ffbcaa"
-
+      
+    - title : "Photonics SILVACO OSLO"
+      progress : "70%"
+      color : "#bdecf6"     
+      
+    - title : "Front and Backend Web App"
+      progress : "50%"
+      color : "#ffbcaa"
 # experience
 experience:
   enable : true
   title : "Experience"
   item: 
     - logo : "images/experience/icon-1.png"
-      title : "Junior UX Designer"
-      company : "WEBEX"
-      duration : "Jan 2007 - Feb 2009"
+      title : "Intern at CEA-Leti"
+      company : "CEA-Leti"
+      duration : "Feb 2020 - ..."
       
-    - logo : "images/experience/icon-2.png"
-      title : "UX & UI Designer"
-      company : "AUGMEDIX"
-      duration : "Mar 2009 - Aug 2014"
       
     - logo : "images/experience/icon-1.png"
-      title : "Senior UI Designer"
-      company : "THEMEFISHER"
-      duration : "Sep 2014 - Present"
+      title : "Consultant in Machine Learning agriculture"
+      company : "Startup in phase 2"
+      duration : "Jul 2019 - Sept 2019"
 
 # education
 education:
   enable : true
   title : "Education"
-  item:
-    - title : "Marters in UX Design"
-      year : "2006"
-      academy : "Masassusets Institute of Technology"
+  item:    
+    - title : "Photonics"
+      year : "Sept 2019 - July 2020"
+      academy : "CentralSupelec Metz and Lorraine University"
       
-    - title : "Honours in Fine Arts"
-      year : "2004"
-      academy : "Harvard University"
+    - title : "PhD computer vision"
+      year : "Dec 2019"
+      academy : "Chouaib Doukkali University"
       
-    - title : "Higher Secondary Certificat"
-      year : "2000"
-      academy : "Cardiff School"
-      
-    - title : "Secondary School Certificate"
-      year : "1998"
-      academy : "Cardiff School"
-
 # service
 service:
-  enable : true
+  enable : false
   title : "Services"
   item:
     - title : "UI Design"
@@ -95,14 +90,14 @@ service:
 
 # portfolio
 portfolio:
-  enable : true
+  enable : false
   title : "Portfolio"
   item_show : 5
   # portfolio item comes from 'data/portfolio.yml' item.
 
 # testimonial
 testimonial:
-  enable : true
+  enable : false
   title : "Testimonials"
   item:
     - name : "Jesica Gomez"
@@ -122,7 +117,7 @@ testimonial:
 
 # client logo slider
 clients_logo_slider:
-  enable : true
+  enable : false
   item:
     - logo : "images/clients-logo/client-logo-1.png"
       URL : "http://examplesite.com"
@@ -156,6 +151,6 @@ clients_logo_slider:
 
 # blog
 blog:
-  enable : true
+  enable : false
   title : "Blogs"
   # blog post comes from "content/blog" folder

@@ -54,11 +54,11 @@ logo = "images/logo.png"
 # theme color
 theme_color = "#41228e"
 # contact info
-phone = "+880 2544 658 256"
-email = "steve.fruits@email.com"
-address = "125/A, CA Commercial Area, California, USA"
+phone = "+33 000 000 000"
+email = "stic2013@gmail.com"
+address = "Grenoble, France"
 # meta description
-author = "Johnathan Smith"
+author = "Muhire Desire"
 description = "This is meta description"
 # google analytics
 google_analytics_id = "" # Your ID

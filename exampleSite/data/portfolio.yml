@@ -1,44 +1,17 @@
 # portfolio item
 item:
-  - image : "images/portfolio/item-1.png"
-    project_url : "http://examplesite.com"
-    category: "design"
+  - image : "images/portfolio/head-3DVision.jpg"
+    project_url : "https://orcid.org/0000-0001-5287-5640"
+    category: "3D Vision in industrial image"
       
-  - image : "images/portfolio/item-2.png"
-    project_url : "#"
-    category: "branding"
       
-  - image : "images/portfolio/item-3.png"
-    project_url : "http://examplesite.com"
-    category: "illustration"
+  - image : "images/portfolio/SGAC-logo-100x.png"
+    project_url : "https://spacegeneration.org/sgac-announces-the-winner-of-the-2019-sss-essay-competition"
+    category: "International Contest"
       
-  - image : "images/portfolio/item-5.png"
-    project_url : "#"
-    category: "design"
-      
-  - image : "images/portfolio/item-8.png"
-    project_url : "http://examplesite.com"
-    category: "illustration"
-      
-  - image : "images/portfolio/item-6.png"
-    project_url : "#"
-    category: "design"
-      
-  - image : "images/portfolio/item-1.png"
-    project_url : "http://examplesite.com"
-    category: "branding"
-      
-  - image : "images/portfolio/item-3.png"
-    project_url : "#"
-    category: "illustration"
-      
-  - image : "images/portfolio/item-7.png"
-    project_url : "http://examplesite.com"
-    category: "branding"
-
-
+     
 # client logo slider
 clients_logo_slider:
-  enable : true
+  enable : false
   title : "My Clients"
   # clients logo comes from 'data/homepage.yml' file
